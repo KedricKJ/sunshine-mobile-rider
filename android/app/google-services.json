@@ -1,0 +1,123 @@
+{
+  "project_info": {
+    "project_number": "48355415352",
+    "firebase_url": "https://sunshine-laundry-d8b8f-default-rtdb.firebaseio.com",
+    "project_id": "sunshine-laundry-d8b8f",
+    "storage_bucket": "sunshine-laundry-d8b8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48355415352:android:cd5322b2ee965e33341dcd",
+        "android_client_info": {
+          "package_name": "lk.sunshine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48355415352-0o37v0lf24dvgrjdus5t0tkk0amq9v7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lk.sunshine",
+            "certificate_hash": "18d6f09abf50ae9ed38ff16aa95baf099120e1eb"
+          }
+        },
+        {
+          "client_id": "48355415352-o1c3ouoks5fcm5ee82nn5vqo30t29hf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lk.sunshine",
+            "certificate_hash": "a3d94a4058feb6458fb89ae7cfc1f8acdce289a0"
+          }
+        },
+        {
+          "client_id": "48355415352-p19rhshvqoen9q7o9kphun80dv8kf18i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lk.sunshine",
+            "certificate_hash": "798dda973806c3eb94d0b4d15ac0dad7f38c4924"
+          }
+        },
+        {
+          "client_id": "48355415352-vlpj2mnfm1b7a01em7ja5m6394nngcuq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lk.sunshine",
+            "certificate_hash": "e5c144775e07e32b63ea6eda4dd41697705a9504"
+          }
+        },
+        {
+          "client_id": "48355415352-v79o0e7g9kef5j9k6r4fjir58j6qc81f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOMsl3C1iV-U8yTZWNWVsv7YUZw7AQhT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48355415352-v79o0e7g9kef5j9k6r4fjir58j6qc81f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "48355415352-ouvmtvj92ihuukqb1cp4koqs4vkhr0pn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "lk.sunshine.sunshineLaundryDriverApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48355415352:android:39c0e141cb9d804c341dcd",
+        "android_client_info": {
+          "package_name": "lk.sunshine.sunshine_laundry_driver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48355415352-ob9dde3th2bu0h8fkrt60o2ilpgoqrla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lk.sunshine.sunshine_laundry_driver_app",
+            "certificate_hash": "53a9cd5178ab776117d624ed33d2cd0024dc58ad"
+          }
+        },
+        {
+          "client_id": "48355415352-v79o0e7g9kef5j9k6r4fjir58j6qc81f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOMsl3C1iV-U8yTZWNWVsv7YUZw7AQhT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48355415352-v79o0e7g9kef5j9k6r4fjir58j6qc81f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "48355415352-ouvmtvj92ihuukqb1cp4koqs4vkhr0pn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "lk.sunshine.sunshineLaundryDriverApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
