@@ -271,9 +271,10 @@ class _OrderWidgetState extends State<OrderWidget> {
   }
 
   _updateItemForOperation(String orderId,String backendOrderStatus,var orderNotificationUpdatableData) async {
-
+    final FirebaseAuth auth = FirebaseAuth.instance;
     String url = Constants.putMobileOrders;
     var putObject = {
+      "acceptedBy": auth.currentUser.phoneNumber,
       'mobileOrders': [
         {'id': orderId, 'status': backendOrderStatus}
       ]

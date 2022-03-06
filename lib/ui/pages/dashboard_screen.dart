@@ -43,7 +43,6 @@ class _DashboardScreenState extends State<DashboardScreen> {
       create: (context) => locatorService.getLocation(),
       child: Scaffold(
         appBar: AppBar(
-          title: Text('Sunshine Laundry'),
           actions: [
             IconButton(
               icon: Icon(Icons.logout),

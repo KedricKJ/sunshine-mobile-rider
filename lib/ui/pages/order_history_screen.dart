@@ -57,13 +57,14 @@ class _OrderHistoryScreenState extends State<OrderHistoryScreen> {
               builder: (BuildContext context, snapshot) {
                 if(snapshot.hasData){
                   return Positioned(
-                      top: mQ.height * 0.18,
+                      top: mQ.height * 0.1,
                       left: 5,
                       right: 5,
+                      bottom: 0,
                       child: Container(
                         height: mQ.height * 0.8,
                         child: ListView.builder(
-                          physics: BouncingScrollPhysics(),
+                          physics: BouncingScrollPhysics(parent: AlwaysScrollableScrollPhysics()),
                           itemBuilder: (context, index) {
                             final DocumentSnapshot documentSnapshot = snapshot.data.docs[index];
                             print(documentSnapshot.data());

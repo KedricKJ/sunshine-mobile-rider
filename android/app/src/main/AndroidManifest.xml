@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="lk.sunshine.sunshine_laundry_driver_app">
    <application
-        android:label="sunshine_laundry_driver_app"
+        android:label="Sun Rider"
         android:icon="@mipmap/ic_launcher">
        <!-- API key -->
        <meta-data android:name="com.google.android.geo.API_KEY"

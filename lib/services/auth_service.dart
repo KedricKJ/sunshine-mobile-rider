@@ -8,6 +8,9 @@ class AuthService{
   //Sign out
   signOut(){
     FirebaseAuth.instance.signOut();
+  }
+
+  deleteDeviceToken(){
 
   }
 }
